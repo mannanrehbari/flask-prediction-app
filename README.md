@@ -27,4 +27,4 @@ The project requires the following:
 ![Alt Text](demo.gif)
 
 ## License
-See [license](www.google.com)
+See [license](LICENSE)
