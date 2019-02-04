@@ -1,6 +1,6 @@
 # Introduction
 This flask web application uses a fine-tuned VGG_16 model to predict whether an uploaded image is a cat or a dog. The jupyter notebook in this repository has a sequence of cells that get VGG_16 model and convert it into a Sequential model with prediction output for only 2 classes: cats v dogs.
-Then this Sequential model was trained on 1900 images of each class. The jupyter notebook saves this complete and reusable model into 'model.h5'. This h5 file is loaded by the Flask web server and used for predictions!
+Then this Sequential model was trained on 1900 images of each class. The jupyter notebook saves this complete and reusable model into 'model.h5'. The notebook also has necessary information about directory structure for images.  This h5 file is loaded by the Flask web server and used for predictions!
 
 ## Dependencies
 The project requires the following:
