@@ -18,6 +18,9 @@ The project requires the following:
 3. Flask will serve the static files which can be accessed from `http://localhost:5000/static/predict.html` from browser.
 4. Upload a test image and get the percentage!
 
+Alternatively, the model that I generated can be downloaded [here](https://www.dropbox.com/s/6w5yrzy5vpcdv9j/model.h5?dl=0). This can help skip step1 above.
+
+
 ## Useful Links/Documentations
 * [Keras](https://keras.io/)
 * [Flask](http://flask.pocoo.org/docs/1.0/)
